@@ -38,7 +38,7 @@ Key requirements include:
 ### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/dharshanmadhavan/Zamazon_Web_Service.git
+git clone https://github.com/Ruban310/Zamazon_project.git
 
 
 ### 2. Install dependencies:
